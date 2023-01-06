@@ -12,6 +12,10 @@ Creation of an CRUD application where the users can Create, Read, Update and Del
 
 MERN (MongoDB - Express - React - Node.js)
 
+# Project Deploy
+
+Link: https://technotes-32d2.onrender.com/
+
 # Project images
 
  <kbd>
@@ -31,6 +35,4 @@ MERN (MongoDB - Express - React - Node.js)
  />
 </kbd>
 
-# Project Deploy
 
-Link: https://technotes-32d2.onrender.com/
